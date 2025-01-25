@@ -36,12 +36,12 @@ pkg install python bluetooth
 
 1. Через pip (рекомендованный способ):
 ```bash
-pip install git+https://github.com/YourUsername/BLEStrike.git
+pip install git+https://github.com/misha-z88/BLEStrike.git
 ```
 
 2. Клонирование репозитория:
 ```bash
-git clone https://github.com/YourUsername/BLEStrike.git
+git clone https://github.com/misha-z88/BLEStrike.git
 cd BLEStrike
 python3 -m venv venv
 source venv/bin/activate  # Для Windows: venv\Scripts\activate
