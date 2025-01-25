@@ -1,0 +1,4 @@
+pybluez>=0.30.0
+pyserial>=3.5
+pyobjc-framework-IOBluetooth; platform_system == 'Darwin'
+pywin32; platform_system == 'Windows'
